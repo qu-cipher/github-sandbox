@@ -11,3 +11,4 @@ realme
 .....
 physic
 shimi
+amar

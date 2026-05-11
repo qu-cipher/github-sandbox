@@ -12,3 +12,4 @@ realme
 physic
 shimi
 amar
+all
